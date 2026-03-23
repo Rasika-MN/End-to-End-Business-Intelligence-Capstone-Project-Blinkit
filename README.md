@@ -34,9 +34,13 @@ Blinkit Sales Dashboard is an end-to-end Business Intelligence project built usi
 ## 🌟 Features
 
 ✅ Interactive Dashboard
+
 ✅ KPI Tracking (Sales, Profit, Orders)
+
 ✅ Sales Trend Analysis
+
 ✅ Product & Category Performance
+
 ✅ Regional Insights
 
 ---
